@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{AD6537CD-B8C8-4DBE-B5DB-4FCEF4B4CF8C}|WinFormsApp9\\WinFormsApp9.csproj|solutionrelative:winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD6537CD-B8C8-4DBE-B5DB-4FCEF4B4CF8C}|WinFormsApp9\\WinFormsApp9.csproj|c:\\users\\rulev\\source\\repos\\winformsapp9\\winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD6537CD-B8C8-4DBE-B5DB-4FCEF4B4CF8C}|WinFormsApp9\\WinFormsApp9.csproj|C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD6537CD-B8C8-4DBE-B5DB-4FCEF4B4CF8C}|WinFormsApp9\\WinFormsApp9.csproj|solutionrelative:winformsapp9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -50,12 +50,16 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp9\\Form1.cs",
-              "ToolTip": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs*",
-              "RelativeToolTip": "WinFormsApp9\\Form1.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCAAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T05:20:48.04Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -63,15 +67,10 @@
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp9\\Form1.cs",
-              "ToolTip": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "WinFormsApp9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\WinFormsApp9\\WinFormsApp9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T05:16:28.946Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-03-13T05:16:28.946Z"
             }
           ]
         }
